@@ -1,0 +1,9 @@
+{
+    "Weapon Path": "splatoon-weapon-images",
+    "Port": 4455,
+    "Password": "Splatoon",
+    "Scene": "SCENE",
+    "Image Source": "WEAPON_TEXT_SOURCE",
+    "Text Source": "test text",
+    "Weapon Set": "All"
+}
